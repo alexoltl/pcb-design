@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Alex/Desktop/pcb-design/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Alex/Desktop/pcb-design/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+)

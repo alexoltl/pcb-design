@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Alex/Desktop/pcb-design/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Alex/Desktop/pcb-design/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+)
