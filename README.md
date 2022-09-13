@@ -19,7 +19,7 @@ all of these needs to be surface mount hand soldierable. i'll try to find them f
  - resistors 
     - [jaycar](https://www.jaycar.co.nz/components-electromechanical/resistors/metal-film/c/2AA?sort=popularity-desc&q) has all the ones needed with metal films.
  - capacitors
-    - available at [mouser](https://nz.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-smd-smt/?type=Surface%20Mount%20MLCC)
+    - available at [mouser](https://nz.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-smd-smt/?type=Surface%20Mount%20MLCC) with single layers
  - diode
     - [mouser](https://nz.mouser.com/ProductDetail/Micro-Commercial-Components-MCC/1N4148W-TP?qs=KFo7JewZbUH7wCMabJ4EeQ%3D%3D) has a diode that perfectly fits my footprint.
  - button
