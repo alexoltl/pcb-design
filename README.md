@@ -7,11 +7,11 @@ i am following [ai03's guide to pcbs](https://wiki.ai03.com/books/pcb-design/cha
 ## components required
 
  - kalih hotswap sockets
-    available at [aliexpress](https://www.aliexpress.com/item/32959301642.html) and [amazon](https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B07K8CCMQZ) both are 50pcs
+    - available at [aliexpress](https://www.aliexpress.com/item/32959301642.html) and [amazon](https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B07K8CCMQZ) both are 50pcs
  - WS2812B LED
-     available at [amazon](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG) mininum 60 leds to 300 leds
+    - available at [amazon](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG) mininum 60 leds to 300 leds
  - TSX-3225 Crystal
-    available at [mouser](https://nz.mouser.com/c/passive-components/frequency-control-timing-devices/crystals/?m=Epson&series=TSX-3225), requires a card, address and others just to sign up 
+    - available at [mouser](https://nz.mouser.com/c/passive-components/frequency-control-timing-devices/crystals/?m=Epson&series=TSX-3225), requires a card, address and others just to sign up 
  -  
 
 # PCB statistics report
