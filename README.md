@@ -20,21 +20,17 @@ Board
 - Area: 2273.5889 sq. mm
 
 Pads
-----
 - Through hole: 4
 - SMD: 98
 - Connector: 0
 - NPTH: 16
 
 Vias
-----
 - Through vias: 17
 - Blind/buried: 0
 - Micro vias: 0
 
 Components
-----------
-
 |        | Front Side | Back Side | Total |
 |--------|------------|-----------|-------|
 |THT:    |         0  |        0  |    0  |
@@ -43,8 +39,6 @@ Components
 |        |            |           |       |
 
 Drill holes
------------
-
 | Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
 |-------|-------|-----------|-----------|--------|---------|-------------|------------|
 |    17 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
