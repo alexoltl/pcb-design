@@ -7,6 +7,7 @@ i am following [ai03's guide to pcbs](https://wiki.ai03.com/books/pcb-design/cha
 ## components required
 
  - kahil hotswap sockets
+available at
  - WS2812B LED
  - TSX-3225 Crystal
  -  
