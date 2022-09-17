@@ -10,8 +10,8 @@ all of these needs to be surface mount hand soldierable. i'll try to find them f
 
 | Component Name | Place(s) to purchase from |Price/part (lowest amount available)|
 |----------------|---------------------------|------------------------------------|
-|   ATMega32u2   |                           |                                    |
-| Kailh Hotswap Sockets | [aliexpress](https://www.aliexpress.com/item/32959301642.html) and [amazon](https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B07K8CCMQZ) | aliexpress: NZ$0.469 each for 30pcs, amazon: NZ$0.248 each for 50pcs |
+| ATMEGA32u2-AR  | [mouser](https://nz.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U2-AU?qs=rBGENRD8NwKYx79eccv8UA%3D%3D), theres some wait | NZ$6.43 for one |
+| Kailh Hotswap Sockets | [aliexpress](https://www.aliexpress.com/item/32959301642.html) and ~[amazon](https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B07K8CCMQZ)~ | aliexpress: NZ$0.469 each for 30pcs, amazon: NZ$0.248 each for 50pcs |
 | WS2812B | [amazon](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG) | $1.798 for 1m |
 | TSX-3225 | [mouser](https://nz.mouser.com/c/passive-components/frequency-control-timing-devices/crystals/?m=Epson&series=TSX-3225) | specific part not found using footprint, but varies from NZ$0.709 - 1.400 each |
 | Resistors | full list of resistors needed below: [jaycar](https://www.jaycar.co.nz/components-electromechanical/resistors/metal-film/c/2AA?sort=popularity-desc&q), using metal film (if available, but carbon are cheaper) | NZ$1 each for most, if not usually cheaper |
