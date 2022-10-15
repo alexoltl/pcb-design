@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-129.725,-90.4375,45,bottom
+C2,14pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-138.759456,-99.832278,-45,bottom
+C3,14pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-132.507888,-106.118458,135,bottom
+C4,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-139.002,-85.09,-90,bottom
+C5,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-110.7475,-85.0775,90,bottom
+C6,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-133.32,-71.0025,180,bottom
+C7,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-125.825,-106.675,180,bottom
+C8,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-135.658877,-96.032246,45,bottom
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,-115.51,-85.0775,0,bottom
+D2,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,-134.2395,-85.09,180,bottom
+F1,Polyfuse_Small,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,-133.5525,-67.1925,180,bottom
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-111.5225,-91.585,0,bottom
+R2,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-132.337107,-92.051516,-135,bottom
+R3,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-133.924607,-93.639016,45,bottom
+R4,5.1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-120.8525,-70.0975,90,bottom
+R5,5.1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-128.4725,-70.0975,90,bottom
+R6,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,-121.049607,-103.704016,-45,bottom
+SW1,SW_Push,SKQGADE010,-112.475,-97.3,-90,bottom
+SW2,MX_SW_HS,SW_MX_HS_1u,-134.3025,-78.4225,180,bottom
+SW3,MX_SW_HS,SW_MX_HS_1u,-115.2525,-78.4225,180,bottom
+U1,ATmega32U2-A,TQFP-32_7x7mm_P0.8mm,-125.812107,-97.989016,135,bottom
+U2,PRTR5V0U2X,SOT143B,-124.6625,-71.0025,0,bottom
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-HandSoldering,-124.775,-57.4775,0,bottom
+Y1,Crystal_GND24_Small,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,-135.650978,-102.975368,-135,bottom
